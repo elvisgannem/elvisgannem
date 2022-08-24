@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elvis Gannem</h1>
-<h3 align="center">A FullStack Developer</h3>
+<h3 align="center">FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elvisgannem&label=Profile%20views&color=0e75b6&style=flat" alt="elvisgannem" /> </p>
 
